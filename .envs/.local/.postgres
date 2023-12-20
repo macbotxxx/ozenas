@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=ozenas_estate
+POSTGRES_USER=BLafCXGiazaDBlIjxpwTPKSOxFOCuuAi
+POSTGRES_PASSWORD=BzAGZjare5iFZbPvVp9ONkkfVgud05GowjqIN0DDw3klKyivs0Hj0kRMvUd6mtoG
